@@ -43,7 +43,7 @@ h1{
     width: 80px;
     height: 80px;
     background-color: chocolate;
-    background-image: url('cards/18.jpg');
+    background-image: url('18.jpg');
     background-size: cover;
     transition: transform.4s, background-image.4s;
     transform: rotateY(180deg);
