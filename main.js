@@ -52,7 +52,7 @@ function handleCardClick(event){
     const cell = event.currentTarget;
     const bg = cell.dataset.bg;
 
-    cell.style.backgroundImage=`url(${bg})`;
+    cell.style.backgroundImage=`${bg}`;
     cell.classList.toggle('open');
 
     if(!firstCard){
