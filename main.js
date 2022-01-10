@@ -16,6 +16,7 @@ const cards = [
     '15.jpg',
     '16.jpg',
     '17.jpg',
+    '18.jpg'
     
 ];
 
@@ -31,7 +32,7 @@ const bannerCard ='19.jpg';
 
 
 const banner=document.createElement('img');
-banner.setAttribute('src','cards/19.jpg');
+banner.setAttribute('src','19.jpg');
 
 banner.classList.add('banner');
 
